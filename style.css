@@ -20,6 +20,7 @@ body{
     background-color: #112031;
     color: #ffff;
     padding-left: 15px;
+    cursor: pointer;
 }
 .keluhan{
     padding-top: 10px;
